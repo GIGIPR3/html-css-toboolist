@@ -65,6 +65,11 @@ main{
     margin-top: 2%;
 }
 
+.to_do{
+    margin: 10px;
+    display: inline-block;
+}
+
 .blue-space{
     color: white;
     background-color: rgb(71,173,241);
@@ -75,7 +80,37 @@ main{
     font-size: smaller;
 }
 
-.cicle{
+.violet-space{
+    color: white;
+    background-color: rgb(135, 0, 212);
+    padding: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    font-size: smaller;
+}
+
+.green-space{
+    color: white;
+    background-color: rgb(100,192,169);
+    padding: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    font-size: smaller;
+}
+
+.orange-space{
+    color: white;
+    background-color: rgb(242,158,51);
+    padding: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    font-size: smaller;
+}
+
+.cicle_green{
     display: inline-block;
     border: solid green;
     border-width: 2px;
