@@ -131,3 +131,16 @@ main{
 }
 
 
+.circle_green{
+    color: green;
+    border: 1px solid green;
+    border-radius: 50%;
+    padding: 2px;
+}
+
+.circle_red{
+    color: red;
+    border: 1px solid red;
+    border-radius: 50%;
+    padding: 2px;
+}
