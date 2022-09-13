@@ -29,7 +29,7 @@ main{
     width: 60%;
     margin: auto;
     margin-top: 50px;
-    border-radius: 6px;
+    border-radius: 8px;
     background-color: white;
 }
 
@@ -56,7 +56,7 @@ main{
 
 #divider{
     background-color: rgb(237, 238, 238);
-    height: 4px;
+    height: 3px;
 }
 
 #container{
@@ -110,9 +110,24 @@ main{
     font-size: smaller;
 }
 
-.cicle_green{
-    display: inline-block;
-    border: solid green;
-    border-width: 2px;
+.pink-space{
+    color: white;
+    background-color: rgb(216,99,161);
+    padding: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    font-size: smaller;
 }
+
+.lime-space{
+    color: white;
+    background-color: rgb(176,201,38);
+    padding: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    font-size: smaller;
+}
+
 
